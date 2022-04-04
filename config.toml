@@ -1,0 +1,27 @@
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://example.com/"
+title = "CV - Martín Quesada Zaragoza "
+#googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#666"
+colorPageBackground = "#ddd"
+colorPrimary = "#a7cfe8"
+colorSecondary = "#aaa"
+colorIconPrimary = "#fff"
+colorIconBackground = "#a7cfe8"
+colorRightColumnBackground = "#f5f5f5"
+colorRightColumnHeadingText = "#666"
+colorRightColumnBodyText = "#666"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#a7cfe8"
+pages = 1

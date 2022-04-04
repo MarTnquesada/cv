@@ -1,0 +1,78 @@
+BasicInfo:
+  FirstName: Martín
+  LastName: Quesada
+  Photo: img/photo5865999748455053348.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +34 675 398 772
+    - Icon: fas fa-envelope
+      Info: mquesadazaragoza@gmail.com
+    - Icon: fas fa-map-marker-alt
+      Info: Valencia, Spain
+
+Profile: I am a 23-year old Spanish computer scientist specialized in natural language processing. During my studies I have especialized on projects that involved semi or fully-unsupervised automatic translation and/or that utilize word embeddings in some capacity. I currently work as a data scientist and engineer, designing natural language processing solutions and integrating them into data pipelines along human annotation and evaluation workflows.
+
+Experience:
+  - Employer: Datamaran Limited
+    Place: Valencia, Spain
+    Positions:
+      - Title: Data Engineer
+        Date: Sept 2019 - Present
+        Details:
+          - Combined unsupervised translation based on cross-lingual word embeddings and manual supervision to translate an extensive thesaurus on non-financial reporting.
+          - Worked on the design and implementation of multiple information extraction pipelines for diverse text sources. Migrated prior pipelines to virtual publish queues that utilize scalable processing groups.
+          - Built services for text annotation and validation to improve existing manual annotation workflows and generate evaluation datasets for information extraction models.
+          - Designed metrics and criteria to speed up manual evaluation of information extraction systems by means of label prioritization.
+        Badges: ['Python', SpaCy, 'MongoDB', 'ElasticSearch', 'Agile', 'AWS']
+      - Title: Data Engineer Intern
+        Date: Jul 2019 - Sept 2019
+        Details:
+          - Built processes to filter and automatically translate news articles, integrating them into a monolingual information extraction pipeline.
+          - Generated data analytics for information extraction pipelines.
+        Badges: ['Python', 'MongoDB', 'ElasticSearch']
+
+Education:
+  - Course: Master's Degree in Artificial Intelligence, Pattern Recognition and Digital Image
+    Place: Universitat Politècnica de València
+    Date: Sep 2020 - Sep 2021
+    Details: >
+      Thesis: <a href="https://riunet.upv.es/handle/10251/174111">Limitations and challenges of unsupervised cross-lingual pre-training</a>
+  - Course: Bachelor's Degree in Computer Science
+    Place: Universitat Politècnica de València
+    Date: Sep 2016 - Sep 2020
+    Details: >
+      Thesis: <a href="https://riunet.upv.es/handle/10251/149380">Unsupervised translation for controlled vocabularies in health sciences</a>
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - C++
+      - Bash
+      - SQL
+  - Family: Databases
+    Items:
+      - MongoDB
+      - ElasticSearch
+      - MySQL
+  - Family: Frameworks
+    Items:
+      - SpaCy
+      - PyTorch & Keras
+      - FastAPI
+      - Moses
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Jenkins
+      - AWS
+      - Docker
+
+Languages:
+  - Name: Spanish
+    Level: Native
+  - Name: English
+    Level: Full professional proficiency
+
+Diplomas:
+  - Professional Scrum Master I - Scrum.org (2021)
