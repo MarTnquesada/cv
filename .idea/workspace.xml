@@ -8,14 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scss/_custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_custom.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/content.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/content.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/avatar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/almeida-cv" beforeDir="false" afterPath="$PROJECT_DIR$/themes/almeida-cv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/almeida-cv/assets/scss/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/almeida-cv/assets/scss/_layout.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/almeida-cv/assets/scss/components/_avatar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/almeida-cv/assets/scss/components/_avatar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/almeida-cv/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/almeida-cv/assets/scss/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/almeida-cv/i18n/en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/almeida-cv/i18n/en.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/almeida-cv/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/almeida-cv/layouts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/almeida-cv/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/almeida-cv/layouts/partials/head.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +28,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/almeida-cv" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -179,7 +171,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "git-widget-placeholder": "0d7f29c2",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/martinquesada/projects/cv"
   }
 }]]></component>

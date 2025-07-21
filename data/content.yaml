@@ -9,27 +9,27 @@ BasicInfo:
       Info: mquesadazaragoza@gmail.com
     - Icon: fas fa-map-marker-alt
       Info: Valencia, Spain
+    - Icon: fas fa-globe
+      Info: martnquesada.github.io
 
-Profile: I am a 24-year old Spanish computer scientist specialized in natural language processing. During my studies I have especialized on projects that involved semi or fully-unsupervised automatic translation and/or that utilize word embeddings in some capacity. I currently work as a data scientist and engineer, designing natural language processing solutions and integrating them into data pipelines along human annotation and evaluation workflows.
+Profile: Although I am a 24-year old Spanish computer scientist specialized in natural language processing. During my studies I have especialized on projects that involved semi or fully-unsupervised automatic translation and/or that utilize word embeddings in some capacity. I currently work as a data scientist and engineer, designing natural language processing solutions and integrating them into data pipelines along human annotation and evaluation workflows.
 
 Experience:
   - Employer: Datamaran Limited
     Place: Valencia, Spain
     Positions:
+      - Title: Senior Data Scientist
+        Date: Feb 2024 - Present
       - Title: Data Engineer
-        Date: Sept 2019 - Present
+        Date: Sept 2019 - Feb 2024
         Details:
           - Combined unsupervised translation based on cross-lingual word embeddings and manual supervision to translate an extensive thesaurus on non-financial reporting.
-          - Worked on the design and implementation of multiple information extraction pipelines for diverse text sources. Migrated prior pipelines to virtual publish queues that utilize scalable processing groups.
+          - Redesigned and migrated multiple information extraction pipelines for diverse text sources, namely news articles and regulations.
           - Built services for text annotation and validation to improve existing manual annotation workflows and generate evaluation datasets for information extraction models.
           - Designed metrics and criteria to speed up manual evaluation of information extraction systems by means of label prioritization.
-        Badges: ['Python', SpaCy, 'MongoDB', 'ElasticSearch', 'Agile', 'AWS']
+        Badges: ['Python', 'SpaCy', 'MongoDB', 'ElasticSearch', 'Agile', 'AWS']
       - Title: Data Engineer Intern
         Date: Jul 2019 - Sept 2019
-        Details:
-          - Built processes to filter and automatically translate news articles, integrating them into a monolingual information extraction pipeline.
-          - Generated data analytics for information extraction pipelines.
-        Badges: ['Python', 'MongoDB', 'ElasticSearch']
 
 Education:
   - Course: Master's Degree in Artificial Intelligence, Pattern Recognition and Digital Image
@@ -44,11 +44,11 @@ Education:
       Thesis: <a href="https://riunet.upv.es/handle/10251/149380">Unsupervised translation for controlled vocabularies in health sciences</a>
 
 Publications:
-  - Course: Limitations and Challenges of Unsupervised Cross-lingual Pre-training
-  - Place: AMTA 2022
+  - Course: <a href="https://aclanthology.org/2022.amta-research.13/">Limitations and Challenges of Unsupervised Cross-lingual Pre-training</a>
+  - Place: Proceedings of the 15th biennial conference of the Association for Machine Translation in the Americas (Volume 1&colon; Research Track) · Sep 12, 2022
 
-  - Course: "Translating Knowledge Representations with Monolingual Word Embeddings: the Case of a Thesaurus on Corporate Non-Financial Reporting"
-  - Place: CompuTerm 2020
+  - Course: <a href="https://aclanthology.org/2020.computerm-1.3/">Translating Knowledge Representations with Monolingual Word Embeddings&colon; the Case of a Thesaurus on Corporate Non-Financial Reporting</a>
+  - Place: Proceedings of the 6th International Workshop on Computational Terminology · May 1, 2020
 
 Skills:
   - Family: Programming languages
@@ -64,15 +64,18 @@ Skills:
   - Family: Frameworks
     Items:
       - SpaCy
-      - PyTorch & Keras
+      - PyTorch/LibTorch
+      - Candle
+      - HF transformers
       - FastAPI
-      - Moses
-  - Family: Developer Tools
+      - Spark
+  - Family: Tools
     Items:
-      - Git
-      - Jenkins
       - AWS
+      - HuggingFace Endpoints
+      - Airflow
       - Docker
+      - Kubernetes
 
 Languages:
   - Name: Spanish
