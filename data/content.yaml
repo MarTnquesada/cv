@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fas fa-globe
       Info: martnquesada.github.io
 
-Profile: Although I am a 24-year old Spanish computer scientist specialized in natural language processing. During my studies I have especialized on projects that involved semi or fully-unsupervised automatic translation and/or that utilize word embeddings in some capacity. I currently work as a data scientist and engineer, designing natural language processing solutions and integrating them into data pipelines along human annotation and evaluation workflows.
+Profile: (what I want to say - I am specialized in machine learning and more specifically in nlp. Aside from that, I do work mostly involving data engineering and some web backend) I am a 24-year old Spanish computer scientist specialized in natural language processing. During my studies I have especialized on projects that involved semi or fully-unsupervised automatic translation and/or that utilize word embeddings in some capacity. I currently work as a data scientist and engineer, designing natural language processing solutions and integrating them into data pipelines along human annotation and evaluation workflows.
 
 Experience:
   - Employer: Datamaran Limited
@@ -20,14 +20,17 @@ Experience:
     Positions:
       - Title: Senior Data Scientist
         Date: Feb 2024 - Present
+        Details:
+          - Optimized and improved the quality of a pipeline that combined vector search, text classification and LLM-based reformulation to aggregate reporting information from companies and tailored impacts, risks and opportunities. Part of the project was presented by a colleague and myself in this <a href="https://www.youtube.com/watch?v=71A_q73RhkI">PyConES 2024 talk</a>.
+          - Add stuff about the MantisNLP project with model monitoring
+        Badges: ['Python', 'SpaCy', 'PostgreSQL', 'Transformers', 'AWS']
       - Title: Data Engineer
         Date: Sept 2019 - Feb 2024
         Details:
-          - Combined unsupervised translation based on cross-lingual word embeddings and manual supervision to translate an extensive thesaurus on non-financial reporting.
           - Redesigned and migrated multiple information extraction pipelines for diverse text sources, namely news articles and regulations.
           - Built services for text annotation and validation to improve existing manual annotation workflows and generate evaluation datasets for information extraction models.
-          - Designed metrics and criteria to speed up manual evaluation of information extraction systems by means of label prioritization.
-        Badges: ['Python', 'SpaCy', 'MongoDB', 'ElasticSearch', 'Agile', 'AWS']
+          - Led the research phase, data collection, training and implementation of data pipelines for the models used in a new platform feature offering automatic detection of ESG targets.
+        Badges: ['Python', 'Argilla', 'MongoDB', 'ElasticSearch', 'AWS']
       - Title: Data Engineer Intern
         Date: Jul 2019 - Sept 2019
 
